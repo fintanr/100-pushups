@@ -10,4 +10,4 @@ So the routine is 3 pyramids, 10 - 8 - 6 - 6 with 5 reps of something else betwe
 |April 1|100| 30 PU + 10S, 10BWS| 30 PU +10S, 10IR | 30 PU + 10S, 10BW| 10 PU | 8:31 |
 
 
-Key: PU - Push Ups. S - Situps. BWs - Body Weight Squarts. IR - Inverted Row
+Key: PU - Push Ups. S - Situps. BWs - Body Weight Squats. IR - Inverted Row
