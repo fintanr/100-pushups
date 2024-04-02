@@ -1,6 +1,6 @@
 # 100 PushUps a Day for Cancer Research UK
 
-I am doing 100 push ups a day over April to raise funds Cancer Research UK. [Sponsorship appreciated](https://fundraise.cancerresearchuk.org/page/fintans-giving-page-6). I will be keeping a log here and posting a bit about the progress on [Twitter](https://twitter.com/fintanr).
+I am doing 100 push ups a day over April to raise funds for Cancer Research UK. [Sponsorship appreciated](https://fundraise.cancerresearchuk.org/page/fintans-giving-page-6). I will be keeping a log here and posting a bit about the progress on [Twitter](https://twitter.com/fintanr).
 
 100 push ups on their own is a bit tiresome and boring, so I break them up into a pyramid of sorts, and do some other exercises in between. 
 So the routine is 3 pyramids, 10 - 8 - 6 - 6 with 5 reps of something else between each phase, with 45 seconds rest between each pyramid and then a final 10 push ups. 
