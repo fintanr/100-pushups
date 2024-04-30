@@ -28,6 +28,15 @@ So the routine is 3 pyramids, 10 - 8 - 6 - 6 with 5 reps of something else betwe
 |April 19| 100 | 30 PU + 20S | 30 PU + 15S, 5BWS | 30 PU + 20S | 10 PU | 7:43 |
 |April 20| 100 | 30 PU + 20S | 30 PU + 20S| 30 PU + 20S | 10 PU | 7:42 |
 |April 21| 100 | 30 PU + 20S | 30 PU + 5S, 15BWS| 30 PU + 20S | 10 PU | 7:54 |
+|April 22| 100 | 30 PU + 20S | 30 PU + 20S| 30 PU + 20S | 10 PU | 7:31 |
+|April 25| 100 | 30 PU + 20S | 30 PU + 10BWS, 10S| 30 PU + 20S | 10 PU | 7:34 |
+|April 26| 100 | 30 PU + 20S | 30 PU + 20S| 30 PU + 20S | 10 PU | 7:18 |
+|April 27 (1)| 100 | 30 PU + 20S | 30 PU + 20S| 30 PU + 20S | 10 PU | 7:11 |
+|April 27 (2)| 100 | 30 PU + 20BWS | 30 PU + 20BWS| 30 PU + 20BWS | 10 PU | 7:53 |
+|April 28| 100 | 30 PU + 20S | 30 PU + 20S| 30 PU + 20S | 10 PU | 7:04 |
+|April 29| 100 | 30 PU + 20S | 30 PU + 20S| 30 PU + 20S | 10 PU | 7:27 |
+|April 30 (1)| 100 | 30 PU + 20S | 30 PU + 20S| 30 PU + 20S | 10 PU | 7:23 |
+|April 30 (2)| 100 | 30 PU + 20BWS | 30 PU + 15BWS| 30 PU + 20BWS | 10 PU | 7:26 |
 
 Key: PU - Push Ups. S - Situps. BWS - Body Weight Squats. IR - Inverted Row, BU - Burpee
 
